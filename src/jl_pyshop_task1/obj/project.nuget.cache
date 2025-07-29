@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70gu3p1wjy0=",
+  "dgSpecHash": "parqy18kJNE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1-2\\jl_pyshop_task1-2.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1\\jl_pyshop_task1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.303\\microsoft.net.sdk.compilers.toolset.9.0.303.nupkg.sha512"
   ],

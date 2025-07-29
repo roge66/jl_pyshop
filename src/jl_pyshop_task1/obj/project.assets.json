@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1-2\\jl_pyshop_task1-2.csproj",
-      "projectName": "jl_pyshop_task1-2",
-      "projectPath": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1-2\\jl_pyshop_task1-2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1\\jl_pyshop_task1.csproj",
+      "projectName": "jl_pyshop_task1",
+      "projectPath": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1\\jl_pyshop_task1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1-2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\RiderProjects\\jl_pyshop\\src\\jl_pyshop_task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
