@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jl_pyshop_task1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b4b76f8c775192c12bfc7eb04dd22ae107c3b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae37c7c0a1b214a221bcc2e99774db2ad55e5b50")]
 [assembly: System.Reflection.AssemblyProductAttribute("jl_pyshop_task1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jl_pyshop_task1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
