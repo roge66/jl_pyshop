@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{68F64583-E233-48F8-8D18-BD1FB32AD252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jl_pyshop_task1-2", "src\jl_pyshop_task1-2\jl_pyshop_task1-2.csproj", "{79E95E8F-B620-43A9-B0D4-069536A444B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E95E8F-B620-43A9-B0D4-069536A444B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E95E8F-B620-43A9-B0D4-069536A444B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E95E8F-B620-43A9-B0D4-069536A444B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E95E8F-B620-43A9-B0D4-069536A444B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79E95E8F-B620-43A9-B0D4-069536A444B4} = {68F64583-E233-48F8-8D18-BD1FB32AD252}
+	EndGlobalSection
+EndGlobal
