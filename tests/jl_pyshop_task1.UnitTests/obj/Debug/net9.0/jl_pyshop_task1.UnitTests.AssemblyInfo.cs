@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("jl_pyshop_task1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("jl_pyshop_task1.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf7dd0e3cebbc538e77ee607fea6917159f674ef")]
-[assembly: System.Reflection.AssemblyProductAttribute("jl_pyshop_task1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("jl_pyshop_task1")]
+[assembly: System.Reflection.AssemblyProductAttribute("jl_pyshop_task1.UnitTests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("jl_pyshop_task1.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
