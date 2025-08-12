@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{0E2E42BE-E1CA-4121-9C6D-4B9588FB88D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EFB7FB41-1122-495D-9351-82AC87A73BED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A514F00C-B198-4151-9AB2-4EADC7ACDE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JlPyshopTask1", "src\JlPyshopTask1\JlPyshopTask1.csproj", "{0D96472A-A266-4A80-85B3-6B9AE2A8D02F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JlPyshopTask1.UnitTests", "tests\JlPyshopTask1.UnitTests\JlPyshopTask1.UnitTests.csproj", "{BDE6B399-4FC7-4237-A90C-C3012187CEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0D96472A-A266-4A80-85B3-6B9AE2A8D02F} = {EFB7FB41-1122-495D-9351-82AC87A73BED}
+		{BDE6B399-4FC7-4237-A90C-C3012187CEC0} = {A514F00C-B198-4151-9AB2-4EADC7ACDE29}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D96472A-A266-4A80-85B3-6B9AE2A8D02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96472A-A266-4A80-85B3-6B9AE2A8D02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96472A-A266-4A80-85B3-6B9AE2A8D02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96472A-A266-4A80-85B3-6B9AE2A8D02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE6B399-4FC7-4237-A90C-C3012187CEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE6B399-4FC7-4237-A90C-C3012187CEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE6B399-4FC7-4237-A90C-C3012187CEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE6B399-4FC7-4237-A90C-C3012187CEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
